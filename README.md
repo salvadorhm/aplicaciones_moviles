@@ -7,3 +7,5 @@
     * programa03.dart - Mapas1
 2. semana_01
     * programa04.dart - Funciones
+    * programa05.dart - Bucle for
+    * programa06.dart - Bucle while
